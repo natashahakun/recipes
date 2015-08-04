@@ -1,0 +1,44 @@
+/******HEADER******/
+header {
+  height: 200px;
+  position: relative;
+}
+
+#header-img {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  width: 100%;
+  display: inline;
+  position: absolute;
+  color: #fff;
+  text-align: center;
+}
+
+/******RECIPE******/
+.recipe-img {
+  max-width:300px;
+  max-height: 300px;
+}
+
+.recipe-container {
+  display: inline-block;
+  width: 30%;
+  padding: 5%;
+}
+
+.recipes {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+}
+
